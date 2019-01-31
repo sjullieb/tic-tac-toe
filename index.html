@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="js/jquery-3.3.1.js" type="text/javascript"></script>
+    <script src="js/math.js" type="text/javascript"></script>
+    <script src="js/scripts.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/styles.css" type="text/css" media="all">
+    <title>Tic Tac Toe</title>
+  </head>
+  <body>
+    <div class="container">
+      <form id="form" class="">
+        <label for="name1">First player's name</label>
+        <input type="text" id="name1" name="" value="">
+
+        <label for="name2">Second player's name</label>
+        <input type="text" id="name2" name="" value="">
+
+        <button class="btn btn-info" id="submit" type="submit" name="button">Start</button>
+      </form>
+
+      <div class="gameBoard">
+        <div class="row" id="row0">
+          <div class="col-md-4" id="0">
+            <p><span id="space0">0</span></p>
+          </div>
+          <div class="col-md-4" id="1">
+            <p><span id="space1">1</span></p>
+          </div>
+          <div class="col-md-4" id="2"
+            <p><span id="space2">2</span></p>
+          </div>
+        </div>
+
+        <div class="row" id="row1">
+          <div class="col-md-4" id="3">
+            <p><span id="space3">3</span></p>
+
+          </div>
+          <div class="col-md-4" id="4">
+            <p><span id="space4">4</span></p>
+
+          </div>
+          <div class="col-md-4" id="5">
+            <p><span id="space5">5</span></p>
+
+          </div>
+        </div>
+
+        <div class="row" id="row2">
+          <div class="col-md-4" id="6">
+            <p><span id="space6">6</span></p>
+
+          </div>
+          <div class="col-md-4" id="7">
+            <p><span id="space7">7</span></p>
+
+          </div>
+          <div class="col-md-4" id="8">
+            <p><span id="space8">8</span></p>
+
+          </div>
+        </div>
+      </div>
+
+
+      <div id="reset">
+        <br>
+        <br>
+        <button id="resetButton" class="btn btn-info" type="button" name="button">Reset</button>
+      </div>
+    </div>
+  </body>
+</html>

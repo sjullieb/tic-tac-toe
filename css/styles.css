@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+}
+
+col-md-4{
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+}
+
+.gameBoard{
+  display: none;
+}
+
+#row1{
+  border-top: 3px solid;
+  border-bottom: 3px solid;
+}
+
+div #d1{
+
+}
