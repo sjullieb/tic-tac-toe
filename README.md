@@ -2,7 +2,7 @@
 
 #### _A simple web application that allows users to play Tic Tac Toe game, Created 1/31/2019_
 
-#### By _**Denny Le & Yulia Shidlovskaya**_
+#### By _**Yulia Shidlovskaya**_
 
 ## Description
 
@@ -25,7 +25,7 @@ _No known bugs_
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas or concerns.  Please email me at dennycle@gmail.com or sjullieb@gmail.com_
+_If you run into any issues or have questions, ideas or concerns.  Please email me at sjullieb@gmail.com_
 
 ## Technologies Used
 
@@ -40,4 +40,4 @@ _If you run into any issues or have questions, ideas or concerns.  Please email 
 
 *MIT*
 
-Copyright (c) 2019 **_Denny Le and Yulia Shidlovskaya_**
+Copyright (c) 2019 **_Yulia Shidlovskaya_**
